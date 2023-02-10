@@ -1,0 +1,23 @@
+{
+  "name": "@thinkquicker/logger",
+  "version": "1.0.0",
+  "description": "Winston Logger with some cool features",
+  "main": "logger.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkquicker/logger.git"
+  },
+  "keywords": [
+    "winston",
+    "logger"
+  ],
+  "author": "Joseph Read <josephqread@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkquicker/logger/issues"
+  },
+  "homepage": "https://github.com/thinkquicker/logger#readme"
+}
